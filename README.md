@@ -15,3 +15,5 @@ This React app is a WhatsApp clone where users can create as many public chat ro
 ## Demo
 
 <img src="./whatsapp-clone-demo.gif" />
+
+<img src="./whatsapp-clone-demo2.gif" />
