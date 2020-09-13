@@ -10,7 +10,7 @@ This React app is a WhatsApp clone where users can create as many public chat ro
 * Firebase's Firestore real-time database
 * Firebase Google Authentication
 
-<a href="https://whatsapp-clone-78b77.web.appp" title="whatsapp clone">Click here to visit the app</a>
+<a href="https://whatsapp-clone-78b77.web.app" title="whatsapp clone">Click here to visit the app</a>
 
 ## Demo
 
