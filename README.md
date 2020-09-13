@@ -17,3 +17,5 @@ This React app is a WhatsApp clone where users can create as many public chat ro
 <img src="./whatsapp-clone-demo.gif" />
 
 <img src="./whatsapp-clone-demo2.gif" />
+
+<b>Note: For Chrome Browser, emoji picker will not display if the Javascript Sourcemap is enable in Chrome Dev Tool. </b>
